@@ -1,4 +1,4 @@
-#Bashtype
+# Bashtype
 
 *Bashtype is a simple typing test program written in under 50 lines of bash*
 *All of the quotes included in the default quotes.txt file are from the Pathologic series of video games*
