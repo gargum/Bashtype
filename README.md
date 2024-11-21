@@ -3,6 +3,7 @@
 ![Bashtype](https://raw.githubusercontent.com/gargum/Bashtype/refs/heads/main/Bashtype.png)
 
 *Bashtype is a simple typing test program written in under 50 lines of bash*
+
 *All of the quotes included in the default quotes.txt file are from the Pathologic series of video games*
 
 Bashtype is a bash script that functions as a very simple typing test program.
